@@ -1,0 +1,12 @@
+65814	Osman	Pamuk	191919
+43733	Ali	Türkşen	1283
+14048	Ahmet Burak	Gözel	111
+62257	Rafet Efe	Gazanfer	222
+36318	Kemal Tuğrul	Karatepe	333
+21657	Saeid	Agahian	tahran123
+23887	Hasan Tunahan	Uluer	555
+98248	Mert	Göğebakan	666
+24681	Ali	Onbaşı	777
+37888	Ferit Ali	Yazıcı	888
+75027	Yusuf	Ada	999
+77068	Furkan	Kaya	kayakaya123

@@ -1,0 +1,12 @@
+18128	65814	43733	Kahramanamraş	İstanbul	102.2
+27432	14048	62257	Ankara	İstanbul	44.6
+99357	23887	14048	İstanbul	Erzurum	5.975
+17066	85394	14048	Zonguldak	Kahramnamraş	14.1125
+11254	75027	37888	Ankara	Bursa	23.0
+77808	24681	23887	Van	İstanbul	567.5
+92951	14048	23887	Almanya	İstanbul	653.0
+41684	14048	21657	Kahramanmaraş	Tahran	20.1875
+82977	37888	98248	Kahramanmaraş	Zonguldak	7.4
+81944	21657	65814	Şanlıurfa	Aydın	19.2065
+13487	37888	98248	Afyonkarahisar	Muş	82.616
+75051	43733	23887	İstanbul	Kahramanmaraş	45.5
